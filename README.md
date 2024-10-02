@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Rawat</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">I'm currently working as a data analyst in Shivalik Communication Ptd Ltd</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Python**
+
+- 💟 I'm looking to collaborate on data science / data analytics project 
 
 - 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Ashish-Rawat/191832290](https://mavenanalytics.io/profile/Ashish-Rawat/191832290)
 

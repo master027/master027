@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Rawat</h1>
-<h3 align="center">I'm currently working as a data analyst in Shivalik Communication Ptd Ltd</h3>
+<h3 align="center">I'm currently working as a data analyst in Shivalik Communication Pvt Ltd</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Python**
